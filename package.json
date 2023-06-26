@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "git@github.com:aws-hero-org/aws-demos.git",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "devDependencies": {
+    "nx": "^16.4.0"
+  }
 }
