@@ -7,6 +7,10 @@
   "license": "MIT",
   "private": false,
   "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.60.1",
+    "@typescript-eslint/parser": "^5.60.1",
+    "eslint": "^8.43.0",
+    "eslint-plugin-import": "^2.27.5",
     "nx": "^16.4.0"
   }
 }
