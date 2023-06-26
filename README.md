@@ -7,6 +7,7 @@ prettier eslint-config-prettier eslint-plugin-prettier
 
 ## Version History
 
-| Version | Description              |
-| :------ | :----------------------- |
-| 1.0.1   | Set up linter & prettier |
+| Version | Description                       |
+| :------ | :-------------------------------- |
+| 1.0.1   | Set up linter & prettier          |
+| 1.0.2   | Improve linter rule configuration |
