@@ -1,0 +1,9 @@
+{
+  "name": "aws-demos",
+  "version": "1.0.0",
+  "description": "Project consisting of different AWS use cases & infrastructure setups",
+  "main": "index.js",
+  "repository": "git@github.com:aws-hero-org/aws-demos.git",
+  "license": "MIT",
+  "private": false
+}
